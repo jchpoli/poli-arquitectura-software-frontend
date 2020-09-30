@@ -1,5 +1,7 @@
 # PoliArquitecturaSoftwareFrontend
 
+Proyecto desplegado en Firebase Hosting en la URL https://poli-arquitectura.web.app/, la cual consume la API expuesta en Heroku en la URL https://poli-arquitectura-backend.herokuapp.com/api/swagger-ui.html#/.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
 
 ## Development server
